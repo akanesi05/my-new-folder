@@ -44,3 +44,4 @@ const SupabaseListener = async () => {
 }
 
 export default SupabaseListener
+

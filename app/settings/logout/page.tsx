@@ -9,7 +9,7 @@ const LogoutPage = async () => {
   const supabase = createServerComponentClient<Database>({
     cookies,
   })
-
+class="bg-cyan-500"
   // セッションの取得
   const {
     data: { session },
